@@ -57,6 +57,7 @@
   max-height: 400px;
   width: 35%;
   box-sizing: border-box;
+  /* background-color: rgba(128, 128, 128, 0.057);   */
 }
 
 #user-info h2{
@@ -78,6 +79,7 @@
 
 #user-info .side-user-links a {
   border: 1px solid rgba(136, 194, 171, 0.61);
+  background-color: rgba(136, 194, 171, 0.19);
   padding: 5px 10px;
   margin: 5px;
   box-sizing: border-box;
